@@ -4,6 +4,8 @@
 
 ## 👨🏻‍💻 À propos de moi
 
+</div>
+
 Je suis un étudiant passioné par l'informatique, que ce soit l'intelligence artificielle, le développement web, les applications mobiles, les jeux vidéos...
 Je souhaite faire de ce GitHub un repère a mes projets personnels que j'envisage de développer dans le futur.
 
