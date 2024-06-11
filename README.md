@@ -1,14 +1,19 @@
-# 👋 Salut, je suis Grégory Tallaa !
+<div align=center>
+
+# 👋 Salut, je suis Grégory Tallaa ! 😁
 
 ## 👨🏻‍💻 À propos de moi
 
 Je suis un étudiant passioné par l'informatique, que ce soit l'intelligence artificielle, le développement web, les applications mobiles, les jeux vidéos...
 Je souhaite faire de ce GitHub un repère a mes projets personnels que j'envisage de développer dans le futur.
 
+<div align=center>
 
 ## 🛠️ Compétences
 
 ### Langages de programmation
+
+</div>
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +24,11 @@ Je souhaite faire de ce GitHub un repère a mes projets personnels que j'envisag
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<div align=center>
+
 ### Technologies et outils
+
+</div>
 
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,8 +38,11 @@ Je souhaite faire de ce GitHub un repère a mes projets personnels que j'envisag
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<div align=center>
 
 ## 🌐 Social
+
+</div>
 
 Vous pouvez me trouver sur ces plateformes :
 
@@ -38,14 +50,18 @@ Vous pouvez me trouver sur ces plateformes :
 - [Twitter](https://twitter.com/gregory_tallaa)
 <!-- - [Portfolio](lien vers portfolio personnel) -->
 
+<div align=center>
+
 ## 📈 Statistiques GitHub
 
-![Tes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
+![Tes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GreggHwzz&show_icons=true&theme=radical)
 
 
 -----
 
-Merci de visiter mon profil GitHub !
+Merci de visiter mon profil GitHub ! 💖
+</div>
+
 <!--
 **GreggHwzz/GreggHwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
